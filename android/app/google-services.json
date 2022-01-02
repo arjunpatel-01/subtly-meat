@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24904592595",
+    "firebase_url": "https://subtly-meat-chart.firebaseio.com",
+    "project_id": "subtly-meat-chart",
+    "storage_bucket": "subtly-meat-chart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24904592595:android:f13b00b6ca64e0298cf826",
+        "android_client_info": {
+          "package_name": "com.firstappdev.subtly_meat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24904592595-nngu2g35nvsccvekb39jpdr8tkkv964t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gQJMoHwN4RA3Qwm1yBke9adcW6oxiD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24904592595-nngu2g35nvsccvekb39jpdr8tkkv964t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
