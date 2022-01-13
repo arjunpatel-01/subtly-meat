@@ -1,4 +1,4 @@
-# subtly_meat
+# Subtly Meat
 
 Database for meat products
 
